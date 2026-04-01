@@ -2,6 +2,11 @@
 
 Simple web-based inventory system for research equipment and materials using PHP, JavaScript, MySQL.
 
+Arga Dwi Indrawan's Simple Lab Inventory Project
+Coded 1st April 2026
+
+This web-app coded for individual assignment project
+
 ## Setup
 1. Copy the folder contents into `C:\xampp\htdocs\research-inventory`.
 2. Start Apache + MySQL in XAMPP.
